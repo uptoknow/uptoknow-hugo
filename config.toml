@@ -1,0 +1,47 @@
+baseurl = "https://uptoknow.github.io/"
+theme = "geo"
+relativeURLs = false
+languageCode = "en-us"
+title = "Welcome to My Site"
+disqusShortname = "uptoknow-1"
+paginate = 5
+
+publishDir = "public"
+
+[taxonomies]
+	tag = "tags"
+	tutorial = "tutorials"
+
+[params]
+	showglobe = true
+
+	favicon = "favicon.ico"
+
+	analytics = "code-here"
+
+	email = "uptoknow@gmail.com"
+
+	profilepic = "img/haowang_profile.jpg"
+
+	title = "UPTOKNOW"
+	subtitle = "Haoran Wang BLOG"
+
+	# Social buttons for sidebar
+	# Each of these are optional
+	[[params.socialbuttons]]
+	faicon = "github"
+	url = "https://github.com/wanghaoran1988"
+	[[params.socialbuttons]]
+	faicon = "twitter"
+	url = "https://twitter.com/wanghaoran88"
+	[[params.socialbuttons]]
+	faicon = "linkedin"
+	url = "https://linkedin.com/haoranwang"
+
+	[[params.navlinks]]
+	name = "About"
+	url = "about"
+
+	[[params.navlinks]]
+	name = "Blog"
+	url = ""

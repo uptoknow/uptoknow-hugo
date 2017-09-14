@@ -1,7 +1,7 @@
 +++
 title = "K8s Auth Proxy Example"
 date = 2017-08-12T11:23:48+08:00
-draft = true
+draft = false
 tags = ["blog", "uptoknow"]
 categories = ["k8s","pass"]
 +++

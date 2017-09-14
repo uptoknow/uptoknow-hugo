@@ -23,7 +23,7 @@ publishDir = "public"
 
 	profilepic = "img/haowang_profile.jpg"
 
-	header = "Talk is cheap, show me your code!"
+	header = "Talking is cheap, show me your code!"
 	title = "UPTOKNOW"
 	subtitle = "Haoran Wang BLOG"
 

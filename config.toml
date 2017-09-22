@@ -15,7 +15,7 @@ publishDir = "public"
 [params]
 	showglobe = true
 
-	favicon = "favicon.ico"
+	favicon = "ico.ico"
 
 	analytics = "code-here"
 

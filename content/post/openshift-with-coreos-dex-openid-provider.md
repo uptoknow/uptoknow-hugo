@@ -2,7 +2,7 @@
 title = "OpenShift with CoreOS Dex Openid Provider"
 date = 2017-09-15T20:00:08+08:00
 draft = false
-tags = ["blog", "uptoknow"]
+tags = ["blog", "uptoknow", "openshift"]
 categories = ["k8s","openshift","dex"]
 +++
 ### Overview

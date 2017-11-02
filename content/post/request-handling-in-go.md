@@ -2,8 +2,7 @@
 title = "Request Handling in Go"
 date = 2017-09-11T18:40:18+08:00
 draft = false
-tags = ["blog", "uptoknow"]
-categories = ["golang","go"]
+tags = ["golang","go", "blog","uptoknow"]
 +++
 ### Http handlers
 Processing HTTP requests with Go is primarily about two things: ServeMuxes and Handlers.

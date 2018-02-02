@@ -46,3 +46,7 @@ publishDir = "public"
 	[[params.navlinks]]
 	name = "Blog"
 	url = ""
+
+	[[params.navlinks]]
+	name = "Golang"
+	url = "tags/golang"

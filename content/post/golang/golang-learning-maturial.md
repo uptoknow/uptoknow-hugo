@@ -13,6 +13,7 @@ This is the page that collect golang related learning materials
   * [Go by example](https://gobyexample.com/): Go by Example is a hands-on introduction to Go using annotated example programs
   * [Effective Golang](https://golang.org/doc/effective_go.html): Golang programming conventions, every Gopher should get farmiliar with this.
   * [Wiki Page](https://github.com/golang/go/wiki): This include really a lot that you needed, including blogs, books, etc.
+  * [Gopher talks](https://talks.golang.org/): This is a site that contains the talks delivered from GopherCon
 2.  Tools for Go:
   * [delve](https://github.com/derekparker/delve): A debugger tool.
   * [code review](https://golang.org/doc/contribute.html#Code_review)

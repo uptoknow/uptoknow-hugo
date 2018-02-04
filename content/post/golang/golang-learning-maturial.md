@@ -23,5 +23,8 @@ This is the page that collect golang related learning materials
 
 4. Books:
   * https://github.com/golang/go/wiki/Books
+5. Blogs:
+  * [Medium](https://medium.com/golangspec)
+  * [official blog site](https://blog.golang.org/)
 
 

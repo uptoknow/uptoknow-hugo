@@ -4,4 +4,4 @@ draft = false
 title = "About Me"
 +++
 
-  Work as a SRE at RedHat, maitaining OpenShift online, OpenShift Dedicated clusters. Prevous worked at Alcatel Lucent, Lecloud.
+  Work as a SRE at RedHat, maitaining OpenShift online, OpenShift Dedicated clusters. Prevous worked at Alcatel Lucent, Lecloud. Ideas are my own.
